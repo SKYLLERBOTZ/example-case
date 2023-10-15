@@ -7,7 +7,7 @@ global.APIs = {
 
 // Apikey
 global.APIKeys = {
-	'https://api.zeeoneofc.my.id': 'Your Key',
+	'https://api.zeeoneofc.my.id': 'QJgcDvPEv4rOSXL',
 }
 
 global.namabot = "Babu Hika"
@@ -16,8 +16,8 @@ global.packname = namabot
 global.author = namaowner
 global.myweb = "https://s.id/zeeoneofc"
 global.footer_text = "© " + namabot
-global.pp_bot = fs.readFileSync("./image/foto.jpg")
-global.qris = fs.readFileSync("./image/qris.jpg")
+global.pp_bot = fs.readFileSync("./image/f.jpg")
+global.qris = fs.readFileSync("./image/q.jpg")
 global.owner = ['6285882135288']
 global.pairingNumber = "" //pairing number to install bot 
 global.sessionName = 'session'
